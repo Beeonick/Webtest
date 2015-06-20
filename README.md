@@ -1,2 +1,0 @@
-# Webtest
-Testing a homepage
